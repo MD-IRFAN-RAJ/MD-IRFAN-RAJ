@@ -4,9 +4,6 @@
 
 <img align="right" width="400" alt="banner" src="https://www.mindmade.in/wp-content/uploads/2024/01/code.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mdirfanraj&label=Profile%20views&color=0e75b6&style=flat" alt="mdirfanraj" /> </p>
-
-<p align="left"> <a href="https://github.com/MD-IRFAN-RAJ"><img src="https://github-profile-trophy.vercel.app/?username=mdirfanraj" alt="mdirfanraj" /></a> </p>
 
 - 🔭 I’m currently working on **Satelite Control System**
 
