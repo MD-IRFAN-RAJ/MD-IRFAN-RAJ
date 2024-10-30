@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm MD IRFAN RAJ</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
 
-<img align="right" width="200" height="150" alt="banner" src="https://www.mindmade.in/wp-content/uploads/2024/01/code.gif">
+<img align="right" width="800" height="150" alt="banner" src="https://www.mindmade.in/wp-content/uploads/2024/01/code.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=MD-IRFAN-RAJ&label=Profile%20views&color=0e75b6&style=flat" alt="mdirfanraj" /> </p>
 <br/>
 
