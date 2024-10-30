@@ -41,7 +41,7 @@
 
 <p>&nbsp;<img align="center" width="200" src="https://github-readme-stats.vercel.app/api?username=MD-IRFAN-RAJ&show_icons=true&locale=en" alt="mdirfanraj" /></p>
 
-<p><img align="center" width="200" src="https://github-readme-streak-stats.herokuapp.com/?user=MD-IRFAN-RAJ&" alt="mdirfanraj" /></p>
+<p><img align="right" width="200" src="https://github-readme-streak-stats.herokuapp.com/?user=MD-IRFAN-RAJ&" alt="mdirfanraj" /></p>
 
 
 
