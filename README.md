@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=MD-IRFAN-RAJ&label=Profile%20views&color=0e75b6&style=flat" alt="mdirfanraj" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=MD-IRFAN-RAJ" alt="mdirfanraj" /></a> </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=MD-IRFAN-RAJ&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=MD-IRFAN-RAJ&theme=algolia)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 - 🔭 I’m currently working on **Satelite Control System**
