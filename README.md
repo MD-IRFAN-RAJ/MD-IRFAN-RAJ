@@ -41,8 +41,8 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=MD-IRFAN-RAJ&show_icons=true&locale=en" alt="mdirfanraj" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MD-IRFAN-RAJ&" alt="mdirfanraj" /></p>
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=MD-IRFAN-RAJ&" alt="mdirfanraj" /></p>
 
-<img width="150" height="150" src="https://www.cloudskillsboost.google/public_profiles/20395831-a11a-4daf-a6fc-9aef1b0f7dc7/badges/9390570" alt="mdirfanraj" />
+
 
 
