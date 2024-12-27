@@ -1,4 +1,4 @@
-[![An image of @mdirfanraj's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mdirfanraj)](https://holopin.io/@mdirfanraj)
+
 <h1 align="center">Hi 👋, I'm MD IRFAN RAJ</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
 <h2>2nd year Computer science student at Indian Institute of Information Technology , Bhagalpur</h2>
