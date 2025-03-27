@@ -1,4 +1,5 @@
-
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="md-irfan-raj" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/md-irfan-raj?trk=profile-badge">Md Irfan Raj</a></div>
+              
 <h1 align="center">Hi 👋, I'm MD IRFAN RAJ</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
 <h2>2nd year Computer science student at Indian Institute of Information Technology , Bhagalpur</h2>
