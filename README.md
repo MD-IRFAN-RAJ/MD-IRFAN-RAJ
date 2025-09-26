@@ -10,7 +10,7 @@
 <h1 align="center">👋 Hi, I'm <span style="color:#00bcd4">MD IRFAN RAJ</span></h1>
 <h3 align="center">💻 A Passionate Software Developer from India | 🌐 Exploring AI Integration in Web Apps</h3>
 <h2 align="center">🎓 3rd Year Computer Science Student at <b>IIIT Bhagalpur</b></h2>
-<h2 align="center">🤝Looking For an <b>Internship </b></h2>
+<h2 align="center">🤝 Looking For an <b>Internship</b></h2>
 
 ---
 
@@ -26,18 +26,20 @@
 
 ---
 
-###🚀 <b>About Me</b>
-💡 Passionate about building innovative and scalable solutions that solve real-world problems.
-🌱 A fast learner who loves exploring new technologies and applying them to practical projects.
-🔭 Currently working on <span style="color:#4cafef">Swastha Sampark</span> –  Emergency Healthcare Platform.
-⚡ Strong interest in AI-driven applications, cloud computing, and system optimization, with hands-on experience in full-stack development.
-🎯 My goal is to merge creativity with technology to design impactful digital products.
-🤝 Open to collaborations, internships, and opportunities where I can contribute, grow, and innovate.
-📫 Reach me at: <span style="color:#00c853">mdirfanraj88.omega@gmail.com
-</span>
+### 🚀 **About Me**
+
+💡 **Passionate Developer** – I love building **innovative & scalable solutions** that solve real-world problems.  
+🌱 **Curious Learner** – Always exploring **new technologies** and applying them to practical projects.  
+🔭 **Current Work** – Developing **<span style="color:#4cafef">Swasthya Sampark</span>**, a **Telemedicine & Emergency Healthcare Platform**.  
+⚡ **Interests** – AI-driven applications, cloud computing, and **system optimization**, with solid experience in **full-stack development**.  
+🎯 **Vision** – Merging **creativity with technology** to design impactful digital products.  
+🤝 **Open To** – Collaborations, internships, and opportunities where I can **contribute, learn, and innovate**.  
+📫 **Reach Me At** – <span style="color:#00c853">mdirfanraj88.omega@gmail.com</span>  
+
 ---
 
 ### 🤝 Connect with Me  
+
 <p align="center">
 <a href="https://www.linkedin.com/in/md-irfan-raj" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&style=for-the-badge" /></a>
 <a href="https://www.youtube.com/@phantomstories-f1y" target="blank"><img src="https://img.shields.io/badge/YouTube-FF0000?logo=youtube&style=for-the-badge" /></a>
@@ -51,6 +53,7 @@
 ---
 
 ### 🛠️ Languages & Tools  
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,python,html,css,js,ts,react,nextjs,nodejs,express,redux,tailwind,bootstrap,mongodb,postgresql,mysql,git,github,nginx,gcp,figma,postman,webpack" />
 </p>
@@ -63,10 +66,10 @@
 
 | 🚀 Project | 🔗 Live Preview |
 |------------|----------------|
-| 🤖 **AI Readme Generator** – Experiments with AI Integration | [![Live](https://img.shields.io/badge/Explore_AI-purple?style=for-the-badge)](https://aireadmegenerator.vercel.app/) |
-| 🤖 **News Platform** – Experiments with AI Integration | [![Live](https://img.shields.io/badge/Explore_AI-purple?style=for-the-badge)](https://ey-news-app-display.onrender.com/) |
-| 🌍 **Swasthya Sampark** – Healthcare Platform | [![Live](https://img.shields.io/badge/Visit_Project-brightgreen?style=for-the-badge)](https://yourwebsite.com) |
-| 💻 **Portfolio Website** – My Personal Showcase | [![Live](https://img.shields.io/badge/View_Portfolio-blue?style=for-the-badge)](https://yourportfolio.com) |
+| 🤖 **AI Readme Generator** – AI-powered tool for generating README files | [![Live](https://img.shields.io/badge/Explore_AI-purple?style=for-the-badge)](https://aireadmegenerator.vercel.app/) |
+| 📰 **AI News Platform** – Smart news platform with AI integration | [![Live](https://img.shields.io/badge/Explore_News-orange?style=for-the-badge)](https://ey-news-app-display.onrender.com/) |
+| 🌍 **Swasthya Sampark** – Healthcare Platform for emergency & telemedicine | [![Live](https://img.shields.io/badge/Visit_Project-brightgreen?style=for-the-badge)](https://yourwebsite.com) |
+| 💻 **Portfolio Website** – My Personal Showcase | [![Live](https://img.shields.io/badge/View_Portfolio-blue?style=for-the-badge)](https://md-irfan-raj.github.io/PortFolio) |
 
 </div>
 
