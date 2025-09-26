@@ -1,46 +1,90 @@
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="md-irfan-raj" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/md-irfan-raj?trk=profile-badge">Md Irfan Raj</a></div>
-              
-<h1 align="center">Hi 👋, I'm MD IRFAN RAJ</h1>
-<h3 align="center">A passionate Full Stack developer from India . Exploring AI integration in web apps</h3>
-<h2>3rd year Computer science student at Indian Institute of Information Technology , Bhagalpur</h2>
+<!-- LinkedIn Badge -->
+<div align="center">
+  <a href="https://in.linkedin.com/in/md-irfan-raj?trk=profile-badge" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+  </a>
+</div>
 
+---
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=MD-IRFAN-RAJ&label=Profile%20views&color=0e75b6&style=flat" alt="mdirfanraj" /> </p>
-<br/>
+<h1 align="center">👋 Hi, I'm <span style="color:#00bcd4">MD IRFAN RAJ</span></h1>
+<h3 align="center">💻 A Passionate Software Developer from India | 🌐 Exploring AI Integration in Web Apps</h3>
+<h2 align="center">🎓 3rd Year Computer Science Student at <b>IIIT Bhagalpur</b></h2>
+<h2 align="center">🤝Looking For an <b>Internship </b></h2>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=MD-IRFAN-RAJ&theme=algolia)](https://github.com/ryo-ma/github-profile-trophy)
+---
 
-
-- 🔭 I’m currently working on **Swastha Sampark**
-
-- 🌱 I’m currently learning **AI integration in Web application for robust software development**
-- 
-- 💬 Ask me about **react,node.js,express.js,PostgreSQL,MongoDB, Multithreading and parallel computing **
-
-- 📫 How to reach me **mdirfanraj88.omega@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/md-irfan-raj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/md-irfan-raj" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/@phantomstories-f1y" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@phantomstories-f1y" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/https://www.codechef.com/users/md_irfan_raj" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/md_irfan_raj" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/mdirfanraj88_om1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/mdirfanraj88_om1" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/https://codeforces.com/profile/md_irfan_raj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/md_irfan_raj" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/md_irfan_raj/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/md_irfan_raj/" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/https://www.hackerearth.com/@md_irfan_raj/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="https://www.hackerearth.com/@md_irfan_raj/" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=MD-IRFAN-RAJ&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
+<div align="center">
 
-<p>&nbsp;<img align="left" width="500" src="https://github-readme-stats.vercel.app/api/top-langs?username=MD-IRFAN-RAJ&show_icons=true&locale=en&layout=compact" alt="MD IRFAN RAJ" /></p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=MD-IRFAN-RAJ&theme=algolia&margin-w=10&margin-h=10&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
-<p>&nbsp;<img align="center" width="500" src="https://github-readme-stats.vercel.app/api?username=MD-IRFAN-RAJ&show_icons=true&locale=en" alt="mdirfanraj" /></p>
+</div>
 
-<p><img align="center" width="500" src="https://github-readme-streak-stats.herokuapp.com/?user=MD-IRFAN-RAJ&" alt="mdirfanraj" /></p>
+---
 
-[![Irfans's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MD-IRFAN-RAJ&bg_color=000000&color=714c9e&line=9e9c4c&point=d4cece&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+###🚀 <b>About Me</b>
+💡 Passionate about building innovative and scalable solutions that solve real-world problems.
+🌱 A fast learner who loves exploring new technologies and applying them to practical projects.
+🔭 Currently working on <span style="color:#4cafef">Swastha Sampark</span> –  Emergency Healthcare Platform.
+⚡ Strong interest in AI-driven applications, cloud computing, and system optimization, with hands-on experience in full-stack development.
+🎯 My goal is to merge creativity with technology to design impactful digital products.
+🤝 Open to collaborations, internships, and opportunities where I can contribute, grow, and innovate.
+📫 Reach me at: <span style="color:#00c853">mdirfanraj88.omega@gmail.com
+</span>
+---
 
+### 🤝 Connect with Me  
+<p align="center">
+<a href="https://www.linkedin.com/in/md-irfan-raj" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&style=for-the-badge" /></a>
+<a href="https://www.youtube.com/@phantomstories-f1y" target="blank"><img src="https://img.shields.io/badge/YouTube-FF0000?logo=youtube&style=for-the-badge" /></a>
+<a href="https://www.codechef.com/users/md_irfan_raj" target="blank"><img src="https://img.shields.io/badge/CodeChef-5B4638?logo=codechef&style=for-the-badge" /></a>
+<a href="https://www.hackerrank.com/profile/mdirfanraj88_om1" target="blank"><img src="https://img.shields.io/badge/Hackerrank-00EA64?logo=hackerrank&style=for-the-badge" /></a>
+<a href="https://codeforces.com/profile/md_irfan_raj" target="blank"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?logo=codeforces&style=for-the-badge" /></a>
+<a href="https://leetcode.com/u/md_irfan_raj/" target="blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&style=for-the-badge" /></a>
+<a href="https://www.hackerearth.com/@md_irfan_raj/" target="blank"><img src="https://img.shields.io/badge/HackerEarth-323754?logo=hackerearth&style=for-the-badge" /></a>
+</p>
 
+---
 
+### 🛠️ Languages & Tools  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,html,css,js,ts,react,nextjs,nodejs,express,redux,tailwind,bootstrap,mongodb,postgresql,mysql,git,github,nginx,gcp,figma,postman,webpack" />
+</p>
 
+---
+
+### 🌟 Featured Projects & Live Links  
+
+<div align="center">
+
+| 🚀 Project | 🔗 Live Preview |
+|------------|----------------|
+| 🤖 **AI Readme Generator** – Experiments with AI Integration | [![Live](https://img.shields.io/badge/Explore_AI-purple?style=for-the-badge)](https://aireadmegenerator.vercel.app/) |
+| 🤖 **News Platform** – Experiments with AI Integration | [![Live](https://img.shields.io/badge/Explore_AI-purple?style=for-the-badge)](https://ey-news-app-display.onrender.com/) |
+| 🌍 **Swasthya Sampark** – Healthcare Platform | [![Live](https://img.shields.io/badge/Visit_Project-brightgreen?style=for-the-badge)](https://yourwebsite.com) |
+| 💻 **Portfolio Website** – My Personal Showcase | [![Live](https://img.shields.io/badge/View_Portfolio-blue?style=for-the-badge)](https://yourportfolio.com) |
+
+</div>
+
+---
+
+### 📊 GitHub Stats  
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=MD-IRFAN-RAJ&show_icons=true&theme=tokyonight&count_private=true" height="160px"/>  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MD-IRFAN-RAJ&layout=compact&theme=tokyonight" height="160px"/>  
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=MD-IRFAN-RAJ&theme=tokyonight" height="160px"/>  
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MD-IRFAN-RAJ&theme=react-dark&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+---
+
+✨ *“Always open to exciting collaborations in Web Development, AI & Open Source!”* 🚀
