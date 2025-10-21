@@ -8,9 +8,8 @@
 ---
 
 <h1 align="center">👋 Hi, I'm <span style="color:#00bcd4">MD IRFAN RAJ</span></h1>
-<h3 align="center">💻 A Passionate Software Developer from India | 🌐 Exploring AI Integration in Web Apps</h3>
-<h2 align="center">🎓 3rd Year Computer Science Student at <b>IIIT Bhagalpur</b></h2>
-<h2 align="center">🤝 Looking For an <b>Internship</b></h2>
+<h3 align="center">💻 Passionate Software Developer | 🌐 AI & Full-Stack Enthusiast</h3>
+<h2 align="center">🎓 3rd Year CS Student at <b>IIIT Bhagalpur</b> | 🤝 Seeking <b>Software Development Internship</b></h2>
 
 ---
 
@@ -20,74 +19,221 @@
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=MD-IRFAN-RAJ&theme=algolia&margin-w=10&margin-h=10&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=MD-IRFAN-RAJ&theme=algolia&margin-w=10&margin-h=10&no-frame=true&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
 ---
 
-### 🚀 **About Me**
+## 🚀 **About Me**
 
-💡 **Passionate Developer** – I love building **innovative & scalable solutions** that solve real-world problems.  
-🌱 **Curious Learner** – Always exploring **new technologies** and applying them to practical projects.  
-🔭 **Current Work** – Developing **<span style="color:#4cafef">Swasthya Sampark</span>**, a **Telemedicine & Emergency Healthcare Platform**.  
-⚡ **Interests** – AI-driven applications, cloud computing, and **system optimization**, with solid experience in **full-stack development**.  
-🎯 **Vision** – Merging **creativity with technology** to design impactful digital products.  
-🤝 **Open To** – Collaborations, internships, and opportunities where I can **contribute, learn, and innovate**.  
-📫 **Reach Me At** – <span style="color:#00c853">mdirfanraj88.omega@gmail.com</span>  
+💡 **Innovation-Driven Developer** – Building scalable solutions that solve real-world challenges  
+🌱 **Currently Exploring** – Advanced AI integration, Microservices Architecture, System Design  
+🔭 **Leading Development** – **Swasthya Sampark** (Telemedicine & Emergency Healthcare Platform)  
+⚡ **Core Strengths** – Full-stack development, AI-driven applications, cloud deployment  
+🎯 **Career Goal** – Contribute to impactful projects while growing as a software engineer  
+📫 **Let's Connect** – <span style="color:#00c853">mdirfanraj88.omega@gmail.com</span> | <a href="https://md-irfan-raj.github.io/PortFolio" target="_blank">Portfolio</a>
 
 ---
 
-### 🤝 Connect with Me  
+## 🏆 **Certifications & Achievements**
+
+<div align="center">
+
+### 🔗 [View All Credly Badges](https://www.credly.com/users/md-irfan-raj/badges)
+
+<!-- Credly Badges Grid -->
+<table align="center">
+  <tr>
+    <td align="center" width="150">
+      <a href="https://www.credly.com/badges/fd72cb37-d5f3-4d27-ba75-3e092eaa83c86" target="_blank">
+        <img src="https://images.credly.com/size/680x680/images/64335247-e0fc-4afc-ae27-e4cdd0d0590d/image.png" width="80" alt="Google Cloud"/>
+      </a>
+      <br/>
+      <sub><b>Google Cloud</b></sub>
+    </td>
+    <td align="center" width="150">
+      <a href="https://www.credly.com/badges/bc9492c4-d3c7-42ad-bf7a-c458457b21a6" target="_blank">
+        <img src="https://images.credly.com/size/680x680/images/eea11cba-2a98-4bbe-bad2-447878dd34a2/image.png" width="80" alt="Google Cloud"/>
+      </a>
+      <br/>
+      <sub><b>Google Cloud</b></sub>
+    </td>
+    <td align="center" width="150">
+      <a href="https://learn.microsoft.com/api/achievements/share/en-us/MDIRFANRAJ-6045/3YXAXS7H?sharingId=F012FCE3BA92B39" target="_blank">
+        <img src="https://learn.microsoft.com/en-us/training/achievements/explore-provision-deploy-relational-database-offerings-azure.svg" width="80" alt="Microsoft Certified"/>
+      </a>
+      <br/>
+      <sub><b>Azure</b></sub>
+    </td>
+    <td align="center" width="150">
+      <a href="https://learn.microsoft.com/api/achievements/share/en-us/MDIRFANRAJ-6045/UXFRQA53?sharingId=F012FCE3BA92B39" target="_blank">
+        <img src="https://learn.microsoft.com/en-us/training/achievements/2-explore-fundamentals-of-real-time-analytics.svg" width="80" alt="Microsoft Certified"/>
+      </a>
+      <br/>
+      <sub><b>Azure</b></sub>
+    </td>
+    <td align="center" width="150">
+      <a href="https://www.credly.com/badges/20108804-c6de-49e6-9fdb-d1843542b9a5" target="_blank">
+        <img src="https://images.credly.com/size/680x680/images/40bee502-a5b3-4365-90e7-57eed5067594/image.png" width="80" alt="DS and AI badge "/>
+      </a>
+      <br/>
+      <sub><b>IBM digital Credential</b></sub>
+    </td>
+  </tr>
+</table>
+
+### 🎯 **Featured Certifications**
+- **AWS Cloud Practitioner** - Cloud Infrastructure & Services
+- **Google Cloud Skills** - GCP Fundamentals & ML
+- **Microsoft Azure** - Cloud Development
+- **Cisco Networking** - Network Fundamentals
+- **Python & AI/ML** - Programming & Data Science
+
+[![View All Badges](https://img.shields.io/badge/🔗_View_All_Credly_Badges-FF6B35?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/md-irfan-raj/badges)
+
+</div>
+
+---
+
+## 🤝 **Connect With Me**
 
 <p align="center">
-<a href="https://www.linkedin.com/in/md-irfan-raj" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&style=for-the-badge" /></a>
-<a href="https://www.youtube.com/@phantomstories-f1y" target="blank"><img src="https://img.shields.io/badge/YouTube-FF0000?logo=youtube&style=for-the-badge" /></a>
-<a href="https://www.codechef.com/users/md_irfan_raj" target="blank"><img src="https://img.shields.io/badge/CodeChef-5B4638?logo=codechef&style=for-the-badge" /></a>
-<a href="https://www.hackerrank.com/profile/mdirfanraj88_om1" target="blank"><img src="https://img.shields.io/badge/Hackerrank-00EA64?logo=hackerrank&style=for-the-badge" /></a>
-<a href="https://codeforces.com/profile/md_irfan_raj" target="blank"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?logo=codeforces&style=for-the-badge" /></a>
-<a href="https://leetcode.com/u/md_irfan_raj/" target="blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&style=for-the-badge" /></a>
-<a href="https://www.hackerearth.com/@md_irfan_raj/" target="blank"><img src="https://img.shields.io/badge/HackerEarth-323754?logo=hackerearth&style=for-the-badge" /></a>
+  <a href="https://www.linkedin.com/in/md-irfan-raj" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&style=for-the-badge" /></a>
+  <a href="https://md-irfan-raj.github.io/PortFolio" target="blank"><img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
+  <a href="https://www.credly.com/users/md-irfan-raj/badges" target="blank"><img src="https://img.shields.io/badge/Credly-FF6B35?style=for-the-badge&logo=credly&logoColor=white" /></a>
+  <a href="https://leetcode.com/u/real_Buraq/" target="blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&style=for-the-badge" /></a>
 </p>
 
 ---
 
-### 🛠️ Languages & Tools  
+## 🛠️ **Technical Stack**
 
+### **Frontend & Mobile**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,html,css,js,ts,react,nextjs,nodejs,express,redux,tailwind,bootstrap,mongodb,postgresql,mysql,git,github,nginx,gcp,figma,postman,webpack" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,redux,html,css,js,ts,tailwind,bootstrap,webpack" />
+</p>
+
+### **Backend & Databases**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgresql,mysql,nginx,postman" />
+</p>
+
+### **Cloud & DevOps**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,git,github" />
+</p>
+
+### **Languages & Tools**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,figma,vscode" />
 </p>
 
 ---
 
-### 🌟 Featured Projects & Live Links  
+## 🌟 **Featured Projects**
+
+### 🏥 **Swasthya Sampark - Healthcare Platform**
+> *Telemedicine & Emergency Healthcare Solution*
+<table>
+<tr>
+<td width="60%">
+  
+- **Tech Stack**: MERN Stack, WebRTC, Socket.io, Tailwind CSS
+- **Features**: Real-time consultations, Emergency alert system, EHR management
+- **My Role**: Full-stack development, API design, Deployment
+- **Status**: 🚧 In Development
+
+</td>
+<td width="40%" align="center">
+  
+ <img src="https://github.com/user-attachments/assets/2ccadcd1-a438-4d90-9755-c8207694542e"  height="20%" alt="image" />
+
+
+</td>
+</tr>
+</table>
+
+---
+
+### 🤖 **AI Readme Generator**
+> *AI-powered README generation tool*
+<table>
+<tr>
+<td width="60%">
+  
+- **Tech Stack**: Next.js, AI APIs, Tailwind CSS
+- **Features**: Smart templates, Customization, Export options
+- **Live Demo**: [aireadmegenerator.vercel.app](https://aireadmegenerator.vercel.app/)
+- **Status**: ✅ Live & Maintained
+
+</td>
+<td width="40%" align="center">
+  
+<img  height="20%" alt="image" src="https://github.com/user-attachments/assets/a9edc264-f0ae-40d0-9f88-3bc397f53822" />
+
+</td>
+</tr>
+</table>
+
+---
+
+### 📰 **AI News Platform**
+> *Intelligent news aggregation platform*
+<table>
+<tr>
+<td width="60%">
+  
+- **Tech Stack**: React, Node.js, News API, AI Integration
+- **Features**: Personalized feeds, Sentiment analysis, Category filtering
+- **Live Demo**: [ey-news-app-display.onrender.com](https://ey-news-app-display.onrender.com/)
+- **Status**: ✅ Deployed
+
+</td>
+<td width="40%" align="center">
+  
+<img  height="20%" alt="image" src="https://github.com/user-attachments/assets/ffb8945d-c9de-4fba-9c85-d952ab4bd3b9" />
+
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📈 **GitHub Analytics & Contributions**
 
 <div align="center">
 
-| 🚀 Project | 🔗 Live Preview |
-|------------|----------------|
-| 🤖 **AI Readme Generator** – AI-powered tool for generating README files | [![Live](https://img.shields.io/badge/Explore_AI-purple?style=for-the-badge)](https://aireadmegenerator.vercel.app/) |
-| 📰 **AI News Platform** – Smart news platform with AI integration | [![Live](https://img.shields.io/badge/Explore_News-orange?style=for-the-badge)](https://ey-news-app-display.onrender.com/) |
-| 🌍 **Swasthya Sampark** – Healthcare Platform for emergency & telemedicine | [![Live](https://img.shields.io/badge/Visit_Project-brightgreen?style=for-the-badge)](https://yourwebsite.com) |
-| 💻 **Portfolio Website** – My Personal Showcase | [![Live](https://img.shields.io/badge/View_Portfolio-blue?style=for-the-badge)](https://md-irfan-raj.github.io/PortFolio) |
+### **📊 Coding Activity**
+<img src="https://github-readme-stats.vercel.app/api?username=MD-IRFAN-RAJ&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" height="165px"/>  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MD-IRFAN-RAJ&layout=compact&theme=tokyonight&hide_border=true" height="165px"/>
+
+### **🔥 Contribution Streak**
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=MD-IRFAN-RAJ&theme=tokyonight&hide_border=true" height="165px"/>
+
+### **🌱 Contribution Graph**
+[![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=MD-IRFAN-RAJ&theme=react-dark&hide_border=true&area=true&custom_title=My%20Contribution%20Activity)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
 ---
 
-### 📊 GitHub Stats  
+## 🏅 **Skills Validation**
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=MD-IRFAN-RAJ&show_icons=true&theme=tokyonight&count_private=true" height="160px"/>  
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MD-IRFAN-RAJ&layout=compact&theme=tokyonight" height="160px"/>  
+### **🎖️ Certified Skills**
+| Category | Certifications | Skills Validated |
+|----------|----------------|------------------|
+| **Cloud Computing** | AWS, GCP, Azure | Cloud Infrastructure, Deployment, Services |
+| **Programming** | Python, Java, C++ | Algorithms, Data Structures, OOP |
+| **Web Development** | Full-Stack Certifications | MERN Stack, Responsive Design, APIs |
+| **AI/ML** | Machine Learning, Data Science | ML Models, Data Analysis, AI Integration |
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=MD-IRFAN-RAJ&theme=tokyonight" height="160px"/>  
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MD-IRFAN-RAJ&theme=react-dark&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
----
-
-✨ *“Always open to exciting collaborations in Web Development, AI & Open Source!”* 🚀
+### **📜 Professional Certificates**
+```text
+🏆 Google Cloud Fundamentals [✅ Certified] 
+🏆 Azure Developer           [✅ Certified]
+🏆 Python Programming        [✅ Certified]
+🏆 Machine Learning          [✅ Certified]
