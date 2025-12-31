@@ -33,7 +33,7 @@
 - ⚡ **Core strengths**: Full-Stack Development, AI-driven apps, Cloud deployment  
 - 🎯 **Goal**: Grow as a software engineer while contributing to impactful products  
 - 📫 **Contact**: **mdirfanraj88.omega@gmail.com**  
-- 🌐 **Portfolio**: [md-irfan-raj.github.io/PortFolio](https://md-irfan-raj.github.io/PortFolio)
+- 🌐 **Portfolio**: **https://irfan-coral.vercel.app/**
 
 ---
 
