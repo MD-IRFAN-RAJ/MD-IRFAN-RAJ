@@ -136,13 +136,6 @@
 
 ---
 
-### 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MD-IRFAN-RAJ&show_icons=true&theme=tokyonight" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MD-IRFAN-RAJ&layout=compact&theme=tokyonight" height="165"/>
-</p>
-
----
 
 ### 🔥 Contribution Streak
 <p align="center">
