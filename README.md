@@ -102,7 +102,8 @@
 ### 🏥 Swasthya Sampark – Healthcare Platform
 - **Tech Stack**: MERN, WebRTC, Socket.io, Tailwind CSS  
 - **Features**: Telemedicine, Emergency alerts, EHR  
-- **Role**: Full-stack development & deployment  
+- **Role**: Full-stack development & deployment
+- **Live** : https://swastha-sampark-frontend.onrender.com
 - **Status**: 🚧 In Development  
 
 ---
